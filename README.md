@@ -1,1 +1,1 @@
-# NLP-Based-Flask-App-with-TextBlob-Main-Points-and-Sentiment-Analysis-
+# NLP-Based-Flask-App-with-TextBlob-and-Sentiment-Analysis
